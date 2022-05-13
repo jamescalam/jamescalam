@@ -12,7 +12,7 @@ I have a lot of content out there, particularly on NLP and Semantic Search. Here
 
 🤖 [PineconeDocumentStore in Haystack for Q&A](https://github.com/deepset-ai/haystack/pull/2254) and [some docs](https://www.pinecone.io/docs/integrations/haystack/)
 
-⏯️ Webinars with incredible people from [Streamlit](https://www.youtube.com/watch?v=QpISF8gMsjQ) and [Deepset AI's Haystack](https://www.youtube.com/watch?v=ZdS_V1A5r44).
+⏯️ Webinars with [OpenAI](https://www.youtube.com/watch?v=HtI9easWtAA), [Streamlit](https://www.youtube.com/watch?v=QpISF8gMsjQ) and [Deepset AI's Haystack](https://www.youtube.com/watch?v=ZdS_V1A5r44).
 
 📺 [YouTube](https://www.youtube.com/c/jamesbriggs)
 
