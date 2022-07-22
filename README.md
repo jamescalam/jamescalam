@@ -1,6 +1,6 @@
 # 🌊 Hi there! I'm James
 
-I'm a Developer Advocate at [Pinecone](https://www.pinecone.io) and run a NLP consultancy company called [Aurel-io](https://www.linkedin.com/company/aurelio-ai). I'm always sharing all the cool stuff I get to learn and write a lot about [Python](https://jamescalam.medium.com), [NLP, and semantic search](https://www.pinecone.io/learn/nlp). Everything I write about I also talk about on [YouTube](https://www.youtube.com/c/jamesbriggs).
+I'm a Developer Advocate at [Pinecone](https://www.pinecone.io) and run a NLP consultancy company called [Aurel-io](https://www.linkedin.com/company/aurelio-ai). I'm sharing all the cool stuff I get to learn, and I write a lot about [Python](https://jamescalam.medium.com), [NLP, and semantic search](https://www.pinecone.io/learn/nlp). Everything I write about I also talk about on [YouTube](https://www.youtube.com/c/jamesbriggs).
 
 I have a lot of content out there, particularly on NLP and Semantic Search. Here are a few of the coolest things that I'm most proud of:
 
